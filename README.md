@@ -1,4 +1,4 @@
-# Project 2 Synchronization
+# Project 2 Synchronization, IOS, 2 semster
 ## Evaluation: 15/15
 ## Task
 In the system, we have three types of processes: (0) main process, (1) skibus, and (2) skier. 
