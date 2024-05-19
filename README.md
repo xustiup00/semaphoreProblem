@@ -10,7 +10,7 @@ skiers wanting to be transported, the bus continues with another round.
 ## Usage
 + to execute use command "make" in the directory with proj.c and makefile
 + file for writing output will be created, now you can execute code using command
-## Execution
+### Execution
 + $ ./proj2 L Z K TL TB
 + L is number of skyers, L < 20.000
 + Z is number of bus stops, 0 < Z <= 10
