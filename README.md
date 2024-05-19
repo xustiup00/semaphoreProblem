@@ -8,7 +8,7 @@ the remaining skiers wait for the next bus. The bus then proceeds to service all
 stops and takes the skiers to the drop-off point at the ski lift. If there are still more 
 skiers wanting to be transported, the bus continues with another round.
 ## Usage
-+ to execute use command "make" in the directory with proj.c and makefile
++ use command "make" in the directory with proj.c and makefile
 + file for writing output will be created, now you can execute code using command
 ### Execution
 + $ ./proj2 L Z K TL TB
